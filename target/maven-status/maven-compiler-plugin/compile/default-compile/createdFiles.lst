@@ -1,0 +1,11 @@
+models\Endereco.class
+models\Pagamento.class
+models\Venda.class
+models\Genero.class
+models\Cliente.class
+models\Editora.class
+models\TipoPagamento.class
+top\livrariapoo\LivrariaPOO.class
+models\ItemVenda.class
+models\Livro.class
+models\Autor.class
